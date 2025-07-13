@@ -1,0 +1,9 @@
+streamlit
+yfinance
+pandas
+prophet
+transformers
+ib_insync
+requests
+python-dotenv
+sqlite3
